@@ -1,1 +1,2 @@
-
+# GreenGrad currently relies on the Python standard library only.
+# Add runtime dependencies here as the project evolves.
